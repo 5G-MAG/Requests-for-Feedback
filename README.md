@@ -8,4 +8,4 @@ To input feedback to a document please create a [new issue](https://github.com/5
 @5G-MAG members: Note that this is a public repository, for IPR-sensitive information please use our internal Workgroups.
 
 ## Publications open for feedback/comments from the community
-- [5GMAG_REP_01] [Towards a comprehensive 5G-based toolbox for live media production](https://www.5g-mag.com/post/towards-a-comprehensive-5g-based-toolbox-for-live-media-production)
+- **[5GMAG_REP_01]** [Towards a comprehensive 5G-based toolbox for live media production](https://www.5g-mag.com/post/towards-a-comprehensive-5g-based-toolbox-for-live-media-production)
