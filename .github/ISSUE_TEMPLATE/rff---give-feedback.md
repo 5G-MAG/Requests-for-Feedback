@@ -16,4 +16,4 @@ _Step 2: Replace this line with your suggested way forward concerning your feedb
 # Additional context
 _Step 3: Replace this line with any other relevant context._
 
-_Step 4: Choose related publication/project (right-hand side)._
+_Step 4: Assign the label of the related publication (right-hand side in the form [5GMAG_XXX_YY])._
