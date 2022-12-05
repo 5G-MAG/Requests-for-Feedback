@@ -1,7 +1,7 @@
 # Requests for Feedback
 Publications related to 5G-MAG's areas of work which are open for feedback/comments from the community.
 
-This repository aims as collecting feedback and comments from the community on publications related to 5G-MAG's areas of work.
+This repository aims at collecting feedback and comments from the community on publications related to 5G-MAG's areas of work.
 
 To input feedback to a document please create a [new issue](https://github.com/5G-MAG/Requests-for-Feedback/issues/new/choose) with a corresponding template. Issues will be regularly reviewed by the relevant 5G-MAG workgroup.
 
