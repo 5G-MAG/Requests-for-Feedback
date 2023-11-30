@@ -11,3 +11,4 @@ To input feedback to a document please create a [new issue](https://github.com/5
 - **[5GMAG_REP_01]** [Towards a comprehensive 5G-based toolbox for live media production](https://www.5g-mag.com/post/towards-a-comprehensive-5g-based-toolbox-for-live-media-production)
 - **[5GMAG_REP_02]** [Spectrum access for live media production using Non-Public Networks (NPNs)](https://www.5g-mag.com/post/spectrum-access-for-live-media-production-using-non-public-networks)
 - **[5GMAG_REP_03]** [Guidelines on registration and onboarding for media production equipment over 5G NPNs](https://www.5g-mag.com/post/guidelines-on-registration-and-onboarding-for-media-production-equipment-over-5gnpns)
+- **[5GMAG_REP_04]** [Time and Frequency Interleaving for broadcast services in 3GPP Systems](https://www.5g-mag.com/post/time-and-frequency-interleaving-for-broadcast-services-in-3gpp-systems)
