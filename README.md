@@ -24,8 +24,9 @@ General feedback is welcome. In particular We are looking for feedback on:
 ### **[5GMAG_REP_03]** [Guidelines on registration and onboarding for media production equipment over 5G NPNs](https://www.5g-mag.com/post/guidelines-on-registration-and-onboarding-for-media-production-equipment-over-5gnpns)
 General feedback is welcome. In particular We are looking for feedback on:
 - aspects related to registration, authentication and onboarding procedures for devices in NPNs (both SNPN and PNI-NPN)
-- handling key issues identified for “device onboarding for SNPNs with UE without pre-provisioned credentials” (Remote provisioning of credentials to UICCs of devices deployed in SNPNs may not be feasible using the GSMA Public Key Infrastructure (PKI) and respective root keys due to the requirement for certification. Coexistence of GSMA PKI root keys and independent eSIM Certificate Authority (CA) root keys is not possible on a single GSMA compliant
-UICC. There is no standardized provisioning scheme for non-UICC-based credentials (i.e., default UE credentials). This is a gap in the 5G ecosystem, out of 3GPP scope, and currently not addressed by other bodies or interest groups).
+- handling key issues identified for “device onboarding for SNPNs with UE without pre-provisioned credentials”:
+  - Remote provisioning of credentials to UICCs of devices deployed in SNPNs may not be feasible using the GSMA Public Key Infrastructure (PKI) and respective root keys due to the requirement for certification. Coexistence of GSMA PKI root keys and independent eSIM Certificate Authority (CA) root keys is not possible on a single GSMA compliant UICC.
+  - There is no standardized provisioning scheme for non-UICC-based credentials (i.e., default UE credentials). This is a gap in the 5G ecosystem, out of 3GPP scope, and currently not addressed by other bodies or interest groups).
 
 ### **[5GMAG_REP_04]** [Time and Frequency Interleaving for broadcast services in 3GPP Systems](https://www.5g-mag.com/post/time-and-frequency-interleaving-for-broadcast-services-in-3gpp-systems)
 General feedback is welcome. In particular We are looking for feedback on:
