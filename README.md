@@ -6,6 +6,10 @@ This repository aims at collecting feedback and comments from the community on p
 To input feedback to a document please create a [new issue](https://github.com/5G-MAG/Requests-for-Feedback/issues/new/choose) with a corresponding template. Issues will be regularly reviewed by the relevant 5G-MAG workgroup.
 
 @5G-MAG members: Note that this is a public repository, for IPR-sensitive information please use our internal Workgroups.
+
+### Feedback on 5G-MAG Publications
+![](https://static.wixstatic.com/media/7898a9_ec064220810341528a57a1c11ed659ae~mv2.png/v1/fill/w_937,h_424,al_c,q_90,enc_auto/Loop3.png)
+
 ## Kanban board
 Check the [Kanban board](https://github.com/orgs/5G-MAG/projects/26/views/1) with the collection of inputs and progression.
 
