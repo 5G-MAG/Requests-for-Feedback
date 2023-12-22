@@ -13,6 +13,14 @@ Check the [Kanban board](https://github.com/orgs/5G-MAG/projects/26/views/1) wit
 
 ## Publications open for feedback/comments from the community
 
+### **[5GMAG_REP_05]** "Time synchronization services for media production over 5G networks"
+**Download the publication [here](https://www.5g-mag.com/post/time-synchronization-services-for-media-production-over-5g-networks))**
+
+General feedback is welcome. In particular we are looking for feedback on:
+- existing implementation of NW-TT and DS-TT translators
+- information on support of API in the operating system of a COTS device (e.g. Android/iOS, ...) for SIB9 and RRC messages exposure
+- way forward on IEEE assignment for Organization ID for 3GPP in PTP frames
+
 ### **[5GMAG_REP_04]** "Time and Frequency Interleaving for broadcast services in 3GPP Systems"
 **Download the publication [here](https://www.5g-mag.com/post/time-and-frequency-interleaving-for-broadcast-services-in-3gpp-systems)**
 
