@@ -13,7 +13,7 @@ Check the [Kanban board](https://github.com/orgs/5G-MAG/projects/26/views/1) wit
 
 ## Publications open for feedback/comments from the community
 
-### **[5GMAG_REP_06]** "Media Service beyond 2D: Use Cases"
+### **[5GMAG_REP_06]** "Media Services beyond 2D: Use Cases"
 **Download the publication [here](https://www.5g-mag.com/post/media-services-beyond-2d-use-cases)**
 
 General feedback is welcome. In particular we are looking for feedback on:
