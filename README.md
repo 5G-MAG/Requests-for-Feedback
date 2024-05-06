@@ -13,8 +13,15 @@ Check the [Kanban board](https://github.com/orgs/5G-MAG/projects/26/views/1) wit
 
 ## Publications open for feedback/comments from the community
 
+### **[5GMAG_REP_06]** "Media Service beyond 2D: Use Cases"
+**Download the publication [here](https://www.5g-mag.com/post/media-services-beyond-2d-use-cases)**
+
+General feedback is welcome. In particular we are looking for feedback on:
+- existing commercial services in relation to the use cases in the report
+- requirements on network and service aspects
+
 ### **[5GMAG_REP_05]** "Time synchronization services for media production over 5G networks"
-**Download the publication [here](https://www.5g-mag.com/post/time-synchronization-services-for-media-production-over-5g-networks))**
+**Download the publication [here](https://www.5g-mag.com/post/time-synchronization-services-for-media-production-over-5g-networks)**
 
 General feedback is welcome. In particular we are looking for feedback on:
 - existing implementation of NW-TT and DS-TT translators
