@@ -1,3 +1,10 @@
+---
+layout: default
+title: Home
+nav_order: 0
+has_children: false
+---
+
 # Requests for Feedback
 This repository aims at collecting feedback and comments from the community on 5G-MAG Publications.
 
