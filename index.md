@@ -5,20 +5,35 @@ nav_order: 0
 has_children: false
 ---
 
+<img src="{{site.baseurl}}/assets/images/5g-mag-logo-with-text.png" alt="5g-mag" style="height:50px">
+
 # Requests for Feedback
 This repository aims at collecting feedback and comments from the community on 5G-MAG Publications.
 
+{: .note }
 To input feedback to a document please create a [new issue](https://github.com/5G-MAG/Requests-for-Feedback/issues/new/choose) with a corresponding template. Issues will be regularly reviewed by the relevant 5G-MAG workgroup.
 
-@5G-MAG members: Note that this is a public repository, for IPR-sensitive information please use our internal Workgroups.
+{: .important }
+For 5G-MAG members: Note that this is a public repository, for IPR-sensitive information please use our internal Workgroups.
 
-### Feedback on 5G-MAG Publications
+## Feedback to 5G-MAG Publications
+
+### Methodology
+
 ![](https://static.wixstatic.com/media/7898a9_ec064220810341528a57a1c11ed659ae~mv2.png/v1/fill/w_937,h_424,al_c,q_90,enc_auto/Loop3.png)
 
-## Kanban board
+### Kanban board
+
 Check the [Kanban board](https://github.com/orgs/5G-MAG/projects/26/views/1) with the collection of inputs and progression.
 
 ## Publications open for feedback/comments from the community
+
+### **[5GMAG_REP_07]** "Roles in the 5G Media Production Ecosystem"
+**Download the publication [here](https://www.5g-mag.com/post/roles-in-the-5g-media-production-ecosystem)**
+
+General feedback is welcome. In particular we are looking for feedback on:
+- differences between traditional link-based systems, (best-effort) connectivity-based system and managed connectivity systems (i.e., 5G)
+- reality check with respect to current deployments
 
 ### **[5GMAG_REP_06]** "Media Services beyond 2D: Use Cases"
 **Download the publication [here](https://www.5g-mag.com/post/media-services-beyond-2d-use-cases)**
