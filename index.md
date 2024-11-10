@@ -28,6 +28,13 @@ Check the [Kanban board](https://github.com/orgs/5G-MAG/projects/26/views/1) wit
 
 ## Publications open for feedback/comments from the community
 
+### **[5GMAG_REP_08]** "Uplink media delivery: Architectures & Features"
+**Download the publication [here](https://www.5g-mag.com/post/uplink-media-delivery-architectures-features)**
+
+General feedback is welcome. In particular we are looking for feedback on:
+- architectures and features suitable for uplink media delivery scenarios
+- issues detected in real field deployments and potential enhancements
+
 ### **[5GMAG_REP_07]** "Roles in the 5G Media Production Ecosystem"
 **Download the publication [here](https://www.5g-mag.com/post/roles-in-the-5g-media-production-ecosystem)**
 
