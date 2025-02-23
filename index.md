@@ -5,9 +5,8 @@ nav_order: 0
 has_children: false
 ---
 
-<img src="{{site.baseurl}}/assets/images/5g-mag-logo-with-text.png" alt="5g-mag" style="height:50px">
+<img src="/assets/images/Banner_RfF.png" /> 
 
-# Requests for Feedback
 This repository aims at collecting feedback and comments from the community on 5G-MAG Publications.
 
 {: .note }
