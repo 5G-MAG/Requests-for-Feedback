@@ -5,7 +5,7 @@ nav_order: 0
 has_children: false
 ---
 
-<img src="/assets/images/Banner_RfF.png" /> 
+<img src="{{site.baseurl}}/assets/images/Banner_RfF.png" /> 
 
 This repository aims at collecting feedback and comments from the community on 5G-MAG Publications.
 
